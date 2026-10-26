@@ -1,0 +1,7 @@
+polars>=1.0
+lightgbm>=4.0
+scikit-learn
+pyarrow
+numpy
+huggingface_hub
+pytest
